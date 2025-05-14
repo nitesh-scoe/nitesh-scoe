@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nitesh Pawar
 
-### A passionate DevOps Engineer from India
+### Aspiring DevOps Engineer | Learning Cloud Technologies, Containers, and CI/CD
 
 ---
 

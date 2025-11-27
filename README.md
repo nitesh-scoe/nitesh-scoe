@@ -44,8 +44,18 @@ I think I am funny 😄
 ![GSAP](https://img.shields.io/badge/-GSAP-05122A?style=flat&logo=greensock)
 
 ### 🧰 Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)
+![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)
+![JPA](https://img.shields.io/badge/-JPA-05122A?style=flat)
+![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apachemaven)
+![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle)
+![Servlets](https://img.shields.io/badge/-Servlets-05122A?style=flat)
+![JSP](https://img.shields.io/badge/-JSP-05122A?style=flat)
+![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat&logo=rest)
+![Microservices](https://img.shields.io/badge/-Microservices-05122A?style=flat&logo=microgenetics)
+
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)

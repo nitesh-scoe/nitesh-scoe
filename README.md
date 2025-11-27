@@ -12,14 +12,19 @@
   • Worked on Service and Data Access layers using Hibernate and JPA, optimizing database interactions for improved performance.  
 
 ## 👯 I’m looking to collaborate on
-End-to-End CI/CD Pipeline for a Microservices Application
+- Java & Spring Boot based backend systems  
+- Microservices architecture and distributed systems  
+- REST API development and integration  
+- Full-stack applications using Java + React  
+- Insurance domain projects involving policy, customer, and agent management  
+- Database-driven applications using MySQL, SQL, Hibernate, and JPA
 
 
 ## 🌱 I’m currently learning
 Softwate Designing, AWS Cloud, DevOps Technologies
 
 ## 💬 Ask me about
-React, ReactJS, Next.js, TypeScript, Tailwind CSS,
+Backend Development
 
 ## 📫 How to reach me
 niteshpawar151@gmail.com

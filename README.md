@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nitesh Pawar
 
-### Software Engineer | Java | SQL | AWS Cloud Servises | Containers |  CI/CD
+### Software Developer | Java | SQL | SpringBoot | ReactJS
 
 ---
 
@@ -20,14 +20,17 @@
 - Database-driven applications using MySQL, SQL, Hibernate, and JPA
 
 
-## 🌱 I’m currently learning
-Softwate Designing, AWS Cloud, DevOps Technologies
+## 🌱 What I’m Working On
+Insurance Domain projects
+REST API backend projects
+Real-time system and Spring microservices
 
 ## 💬 Ask me about
-Backend Development
+Java Developer, 2 years experience
+Tech stack: Java, Spring Boot, SQL, REST APIs, Hibernate/JPA, React, Microservices (if applicable)
 
 ## 📫 How to reach me
-niteshpawar151@gmail.com
+niteshpawarr23@gmail.com
 
 ## ⚡ Fun fact
 I think I am funny 😄

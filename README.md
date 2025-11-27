@@ -5,10 +5,10 @@
 ---
 
 ## 🔭 I’m currently working on
-**[[ End-to-End CI/CD Pipeline for a Microservices Application]]**
+ End-to-End CI/CD Pipeline for a Microservices Application
 
 ## 👯 I’m looking to collaborate on
-**[ End-to-End CI/CD Pipeline for a Microservices Application]**
+End-to-End CI/CD Pipeline for a Microservices Application
 
 
 ## 🌱 I’m currently learning

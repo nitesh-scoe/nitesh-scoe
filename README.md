@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nitesh Pawar
 
-### Aspiring DevOps Engineer | Learning Cloud Technologies, Containers, and CI/CD
+### Software Engineer | Java | SQL | Cloud | Technologies, Containers, and CI/CD
 
 ---
 
@@ -18,7 +18,7 @@ DevOps Technologies
 React, ReactJS, Next.js, TypeScript, Tailwind CSS,
 
 ## 📫 How to reach me
-niteshpawar.tech@gmail.com
+niteshpawar151@gmail.com
 
 ## ⚡ Fun fact
 I think I am funny 😄

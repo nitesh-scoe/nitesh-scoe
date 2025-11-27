@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nitesh Pawar
 
-### Software Engineer | Java | SQL | Cloud | Technologies, Containers, and CI/CD
+### Software Engineer | Java | SQL | AWS Cloud Servises | Containers |  CI/CD
 
 ---
 
@@ -12,7 +12,7 @@
 
 
 ## 🌱 I’m currently learning
-DevOps Technologies
+Softwate Designing, AWS Cloud, DevOps Technologies
 
 ## 💬 Ask me about
 React, ReactJS, Next.js, TypeScript, Tailwind CSS,

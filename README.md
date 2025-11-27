@@ -5,7 +5,11 @@
 ---
 
 ## 🔭 I’m currently working on
- End-to-End CI/CD Pipeline for a Microservices Application
+- Insurance Domain | Tech Stack: Java, SQL, Spring Boot, React JS, REST APIs  
+  • Developed a comprehensive insurance management platform using Spring Boot and MySQL, focusing on backend architecture and API integration.  
+  • Designed and implemented customer and agent processing modules.  
+  • Built RESTful APIs to facilitate seamless frontend–backend communication.  
+  • Worked on Service and Data Access layers using Hibernate and JPA, optimizing database interactions for improved performance.  
 
 ## 👯 I’m looking to collaborate on
 End-to-End CI/CD Pipeline for a Microservices Application

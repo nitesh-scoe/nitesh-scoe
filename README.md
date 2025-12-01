@@ -30,7 +30,7 @@ Java Developer, 2 years experience
 Tech stack: Java, Spring Boot, SQL, REST APIs, Hibernate/JPA, React, Microservices (if applicable)
 
 ## 📫 How to reach me
-niteshpawarr23@gmail.com
+nittesh.pawar@gmail.com
 
 ## ⚡ Fun fact
 I think I am funny 😄

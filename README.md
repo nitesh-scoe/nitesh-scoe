@@ -26,7 +26,7 @@ REST API backend projects
 Real-time system and Spring microservices
 
 ## 💬 Ask me about
-Java Developer, 2 years experience
+Java Developer, 2.7 years experience
 Tech stack: Java, Spring Boot, SQL, REST APIs, Hibernate/JPA, React, Microservices (if applicable)
 
 ## 📫 How to reach me
